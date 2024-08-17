@@ -14,9 +14,6 @@ generatingAlignments("/home/gaurav/Desktop/final_code_push/multi.gff",
                         "/home/gaurav/Desktop/final_code_push/multi.fasta", 
                                "/home/gaurav/Desktop/final_code_push/multiout.fasta")
 ```
-Gaurav \
-Academic Staff Member \
-Bioinformatics \
-Institute for Biochemistry and Biology \
+Gaurav Sablok \
 University of Potsdam \
 Potsdam,Germany
